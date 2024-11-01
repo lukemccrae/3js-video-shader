@@ -62,7 +62,7 @@ export default function App() {
   const [amplitude, setAmplitude] = useState(1.5);
   const [time, setTime] = useState(5);
   const [vid, setVid] = useState(0)
-  const vids = ['vid.mp4', 'mov.mp4']
+  const vids = ['drum1.mp4', 'mov.mp4']
 
   // Increase amplitude with an example setInterval (or use any control logic you prefer)
   useEffect(() => {
