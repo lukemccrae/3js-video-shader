@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/3js-video-shader/static/css/main.1d38bf31.css",
+    "main.js": "/3js-video-shader/static/js/main.285b55a0.js",
+    "index.html": "/3js-video-shader/index.html",
+    "main.1d38bf31.css.map": "/3js-video-shader/static/css/main.1d38bf31.css.map",
+    "main.285b55a0.js.map": "/3js-video-shader/static/js/main.285b55a0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d38bf31.css",
+    "static/js/main.285b55a0.js"
+  ]
+}
